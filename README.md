@@ -1,5 +1,5 @@
 # I
 Prueba de repositorios
-main<>
-  <h1>buenas</h1>
+
+  <h1>buenas a todos</h1>
   </main>
